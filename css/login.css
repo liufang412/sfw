@@ -1,0 +1,128 @@
+@charset 'utf-8';
+.login-content {
+  width: 1100px;
+  border: 2px solid #DBDBDB;
+  margin: 20px auto;
+}
+.login-content .login-content-phone {
+  float: left;
+  padding: 40px 15px 0px 55px;
+}
+.login-content .login-content-phone img {
+  width: 270px;
+  height: 368px;
+}
+.login-content .login-content-hy {
+  float: left;
+  padding: 40px 15px 0px 55px;
+}
+.login-content .login-content-hy img {
+  display: block;
+}
+.login-content .login-content-hy button {
+  width: 150px;
+  height: 39px;
+  background-color: #FABD24;
+  border: none;
+  color: #fff;
+  font-size: 18px;
+  font-family: '微软雅黑';
+  border-radius: 6px;
+  margin-top: 10px;
+}
+.login-content .login-content-login {
+  padding: 30px 20px 20px 40px;
+  background-color: #ECECEC;
+  margin-left: 50px;
+  width: 308px;
+  float: left;
+}
+.login-content .login-content-login .radio {
+  margin-bottom: 30px;
+}
+.login-content .login-content-login .radio span {
+  font-size: 16px;
+  color: #666666;
+}
+.login-content .login-content-login .radio .ptdl {
+  margin-right: 60px;
+  display: inline-block;
+}
+.login-content .login-content-login .uname input {
+  width: 284px;
+  height: 40px;
+  text-indent: 20px;
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 4px;
+}
+.login-content .login-content-login .checkbox span {
+  color: #999999;
+}
+.login-content .login-content-login .checkbox .search {
+  text-decoration: none;
+  color: #4FC0E8;
+  display: inline-block;
+  margin-left: 10px;
+}
+.login-content .login-content-login .checkbox .search:hover {
+  text-decoration: underline;
+}
+.login-content .login-content-login .checkbox .free {
+  color: #999999;
+  margin-left: 70px;
+  display: inline-block;
+  text-decoration: none;
+}
+.login-content .login-content-login .checkbox .free:hover {
+  text-decoration: underline;
+  color: #CC0000;
+}
+.login-content .login-content-login button {
+  display: block;
+  background-color: #CC0000;
+  width: 284px;
+  height: 40px;
+  color: #fff;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  font-family: '微软雅黑';
+  margin: 15px 0px;
+}
+.login-content .login-content-login .ways a {
+  display: block;
+  float: left;
+  margin-right: 4px;
+  text-decoration: none;
+}
+.login-content .login-content-login .ways a span {
+  color: #999999;
+  font-size: 12px;
+}
+.login-content .login-content-login .ways a img {
+  vertical-align: middle;
+}
+.login-content .login-content-login .ways a:hover {
+  text-decoration: underline;
+  color: #CC0000;
+}
+.login-content .login-content-login .ways a:hover span {
+  color: #CC0000;
+}
+.login-content .login-content-login .qiye {
+  margin-top: 61px;
+}
+.login-content .login-content-login .qiye span {
+  color: #666666;
+}
+.login-content .login-content-login .qiye a {
+  text-decoration: none;
+  color: #4FC0E8;
+  margin-left: 20px;
+  display: inline-block;
+  font-size: 12px;
+}
+.login-content .login-content-login .qiye a:hover {
+  text-decoration: underline;
+}
